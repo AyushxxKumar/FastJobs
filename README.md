@@ -14,4 +14,6 @@ Now,
 1)Create  petsModel.js file.
 2)Created a form with a `file input` tag element that allows me to choose Excel file and a button to submit the form.
 3)Import body-parser, express, mongoose,convert-excel-to-json, multer dependencies in app.js
+4)Defined schema in petsModel.js file
 
+Rest all explanations commented in the code itself.
